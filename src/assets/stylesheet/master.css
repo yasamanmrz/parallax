@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'lucky';
+    src: url(./../font/LuckiestGuy-Regular.ttf);
+}
+@font-face {
+    font-family: 'doodle';
+    src: url(./../font/RubikDoodleTriangles-Regular.ttf);
+}
+
+a, h1, h2, h3{
+    font-family: lucky;
+}
